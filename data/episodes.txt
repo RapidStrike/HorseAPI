@@ -1,0 +1,188 @@
+FIM|1286731800|1|1|Friendship is Magic (Part 1)|After trying to warn Princess Celestia about the return of the wicked Night Mare Moon, Twilight Sparkle and Spike travel to Ponyville where they meet Pinkie Pie, Applejack, Rainbow Dash, Rarity and Fluttershy.
+FIM|1287768600|1|2|Friendship is Magic (Part 2)|Twilight and the ponies team up in a search for the Elements of Harmony, which will bring back the kidnapped princess.
+FIM|1288373400|1|3|The Ticket Master|Twilight Sparkle receives two tickets to the Grand Galloping Gala and all her friends want to go.
+FIM|1288978200|1|4|Applebuck Season|Applejack is determined to complete her Applebuck season harvest alone.
+FIM|1289586600|1|5|Griffon the Brush Off|Pinkie Pie and Rainbow Dash play pranks on the other ponies; Pinkie Pie becomes a third wheel when a griffon friend of Rainbow Dash comes to visit.
+FIM|1290191400|1|6|Boast Busters|The arrival of Trixie, a boastful pony with magical skills, annoys Ponyville's ponies; Twilight Sparkle resists her friends' requests to challenge Trixie.
+FIM|1290796200|1|7|Dragonshy|Fluttershy must overcome her fears to convince a dragon to move out of town before its plume of black smoke covers all the land.
+FIM|1291401000|1|8|Look Before You Sleep|When the ponies gather at Twilight's for a slumber party, a quarrel between Rarity and Applejack threatens to ruin the night.
+FIM|1292005800|1|9|Bridle Gossip|The ponies come down with a bizarre sickness.
+FIM|1292610600|1|10|Swarm of the Century|Parasprites descend upon Ponyville.
+FIM|1293215400|1|11|Winter Wrap Up|Twilight Sparkle prepares for the Winter Wrap-Up.
+FIM|1294425000|1|12|Call of the Cutie|Apple Bloom searches for her purpose in life so she can receive her cutie mark.
+FIM|1296239400|1|13|Fall Weather Friends|During the annual Running of the Leaves, competition turns sour.
+FIM|1296844200|1|14|Suited For Success|Rarity gets overwhelmed when she offers to make individual dresses for each of her friends.
+FIM|1297449000|1|15|Feeling Pinkie Keen|Twilight Sparkle wants to uncover the source of Pinkie Pie's abilities.
+FIM|1298053800|1|16|Sonic Rainboom|Rarity loves her new ability so much she disrupts the competition.
+FIM|1298658600|1|17|Stare Master|Fluttershy offers to babysit the Cutie Mark Crusaders.
+FIM|1299263400|1|18|The Show Stoppers|The Cutie Mark Crusaders hope to discover their true life meaning.
+FIM|1299868200|1|19|A Dog and Pony Show|Rarity is taken by a group of Diamond Dogs and is forced to find gems for them.
+FIM|1300469400|1|20|Green Isn't Your Color|Rarity recruits Fluttershy as a model to promote her dresses.
+FIM|1301074200|1|21|Over a Barrel|Settling a complicated land dispute.
+FIM|1302283800|1|22|A Bird in the Hoof|Fluttershy borrows the Princess's sick bird so she can heal it.
+FIM|1302888600|1|23|The Cutie Mark Chronicles|The Cutie Mark Crusaders seek out Twilight and the rest of the ponies to learn the stories of how they got their cutie marks.
+FIM|1303493400|1|24|Owl's Well That Ends Well|When Twilight becomes friends with an owl that helps her around the house, Spike gets jealous and fears he will be replaced.
+FIM|1304098200|1|25|Party of One|Pinkie Pie tries to learn why her friends are avoiding her party invitation.
+FIM|1304703000|1|26|The Best Night Ever|The ponies' expectations for the Grand Galloping Gala may be too high.
+FIM|1316264400|2|1|The Return of Harmony (Part 1)|Discord escapes from his stone prison, and Twilight and her friends must act quickly to find the Elements of Harmony to stop him.
+FIM|1316869200|2|2|The Return of Harmony (Part 2)|Discord causes a rift between Twilight and her friends and she must bring them back together in order to defeat him.
+FIM|1318683600|2|3|Lesson Zero|Panic ensues when Twilight can't find one of her friendship lessons for her letter to Princess Celestia.
+FIM|1319292000|2|4|Luna Eclipsed|Luna shows up at the Nightmare Night macabre party to change her bad pony image.
+FIM|1320501600|2|5|Sisterhooves Special|Sweetie Belle is upset when her sister Rarity refuses to take part in a rough celebration of sisterly unity.
+FIM|1321110000|2|6|The Cutie Pox|Apple Bloom panics when she gets not one, but a dozen cutie marks.
+FIM|1321714800|2|7|May the Best Pet Win!|Rainbow Dash hosts a flying race to see who will be her pet.
+FIM|1322319600|2|8|The Mysterious Mare Do Well|There is a new hero in Ponyville who is masked and stealing Rainbow Dash's thunder.
+FIM|1322924400|2|9|Sweet and Elite|Rarity must choose between her friends and important social connections in Canterlot.
+FIM|1323529200|2|10|Secret of my Excess|Spike gets greedy on his birthday and has a huge growth spurt that could decimate Ponyville.
+FIM|1324134000|2|11|Hearth's Warming Eve|The six friends are in a play about the founding of Equestria for the Hearth's Warming Eve's holiday pageant.
+FIM|1325948400|2|12|Family Appreciation Day|Apple Bloom doesn't want Granny Smith to embarrass her by speaking in her class.
+FIM|1326553200|2|13|Baby Cakes|Pinkie Pie tries babysitting Cake's twin toddlers but finds it harder than she thought.
+FIM|1327158000|2|14|The Last Roundup|Applejack disappears and the friends set out on a journey to find her.
+FIM|1327762800|2|15|The Super Speedy Cider Squeezy 6000|The Flim Flam brothers challenge the Apples to a Cider Making Contest for the farm.
+FIM|1328367600|2|16|Read It and Weep|Rainbow Dash secretly discovers the joys of reading when she's laid up in the hospital.
+FIM|1328974200|2|17|Hearts and Hooves Day|The Cutie Mark Crusaders make a love potion for Miss Cheerilee and Big Macintosh to fall in love, but soon regret it when the couple begins to exchange vows of love childishly.
+FIM|1329577200|2|18|A Friend in Deed|Pinkie Pie tries to turn Cranky Doodle Donkey, the only creature to refuse her friendship.
+FIM|1330797600|2|19|Putting Your Hoof Down|Iron Will helps Fluttershy become assertive.
+FIM|1331402400|2|20|It's About Time|Twilight receives a warning from her future self and drives herself crazy with worry.
+FIM|1332003600|2|21|Dragon Quest|Spike joins the Great Dragon Migration to discover his true identity, but it might not be what he really needs.
+FIM|1332608400|2|22|Hurricane Fluttershy|Fluttershy needs to overcome her self consciousness in order to help Rainbow Dash and the other pegasi with the Rainy Season.
+FIM|1333213200|2|23|Ponyville Confidential|The Cutie Mark Crusaders start a gossip column under the name Gabby Gums, but find it might not be worth the pain the stories cause other ponies.
+FIM|1333818000|2|24|MMMystery on the Friendship Express|A cake Pinkie Pie is guarding for a contest is ruined on the way to Canterlot and an investigation begins.
+FIM|1335027600|2|25|A Canterlot Wedding (Part 1)|Twilight's brother, Shining Armor, is marrying Princess Celestia's niece, Cadence.
+FIM|1335029400|2|26|A Canterlot Wedding (Part 2)|Twilight discovers a dark secret about Cadence right before the wedding.
+FIM|1352559600|3|1|The Crystal Empire (Part 1)|The Crystal Empire reappears after 1,000 years.
+FIM|1352561400|3|2|The Crystal Empire (Part 2)|Twilight Sparkle searches for the missing Crystal Heart to restore the Crystal Empire.
+FIM|1353166200|3|3|Too Many Pinkie Pies|Overwhelmed with having to choose just one friend to spend time with, Pinkie Pie uses a magic mirror to clone herself.
+FIM|1353771000|3|4|One Bad Apple|The Cutie Mark Crusaders are crushed when Babs Seed rejects their invitation to become a fellow Crusader and instead become a bully.
+FIM|1354375800|3|5|Magic Duel|When Trixie returns to Ponyville, she defeats Twilight and banishes her from town.
+FIM|1354980600|3|6|Sleepless in Ponyville|Scootaloo begins to have nightmares after hearing the frightful campfire stories.
+FIM|1355585400|3|7|Wonderbolt Academy|Rainbow Dash receives an invitation to attend the Wonderbolt Academy but questions whether she is Wonderbolt material.
+FIM|1356190200|3|8|Apple Family Reunion|Granny Smith agrees to let Applejack lead the Apple Family reunion but Applejack loses sight of what is truly important.
+FIM|1356795000|3|9|Spike at Your Service|After Applejack saved Spike, he insists on fulfilling the Noble Dragon Code by repaying her with excessive help around the farm.
+FIM|1358609400|3|10|Keep Calm and Flutter On|Princess Celestia tasks the ponies with reforming Discord, a mischievous spirit of disharmony, but Fluttershy is the only one who is willing to give him a chance.
+FIM|1359214200|3|11|Just for Sidekicks|Spike finds himself in over his head after convincing Twilight and her friends to let him pet-sit their critters in exchange for a few gems.
+FIM|1360423800|3|12|Games Ponies Play|Princess Cadance invites Twilight and her friends to welcome the important Equestria Games inspector.
+FIM|1361028600|3|13|Magical Mystery Cure|When Twilight casts a spell that switches the Cutie Marks and destinies, the only way to reverse the spell is by writing her own magic.
+FIM|1385218800|4|1|Princess Twilight Sparkle (Part 1)|Now a Princess, Twilight Sparkle's Summer Sun Celebration plans are put on hold when Princesses Luna and Celestia go missing.
+FIM|1385220600|4|2|Princess Twilight Sparkle (Part 2)|In order to save Equestria from the Everfree Forest, Princess Twilight and friends must bring their Elements to the Tree of Harmony.
+FIM|1385825400|4|3|Castle-Mania|While in Luna and Celestia's old castle, the ponies are convinced it is haunted by the Pony of Shadows.
+FIM|1386430200|4|4|Daring Don't|Rainbow Dash and friends offer to help their favorite author finish her latest book.
+FIM|1387035000|4|5|Flight to the Finish|Scootaloo becomes convinced that the best way to carry the Ponyville flag at the Equestria Games is to fly.
+FIM|1387639800|4|6|Power Ponies|Spike and the Mane 6 must defeat a super-villian when they are stuck in a comic book world.
+FIM|1388244600|4|7|Bats!|Sweet Apple Acres is taken over by Vampire Fruit Bats.
+FIM|1388849400|4|8|Rarity Takes Manehattan|When Rarity attends Fashion Week, another designer copies her entire line.
+FIM|1389454200|4|9|Pinkie Apple Pie|Pinkie Pie sets out to discover whether or not she is related to the Apple family.
+FIM|1390059000|4|10|Rainbow Falls|Rainbow Dash must choose between the Ponyville Relay Team and the more competitive Cloudsdale team.
+FIM|1390663800|4|11|Three's a Crowd|Twilight's quality time with Princess Cadance is interrupted when she must take care of a sick friend.
+FIM|1391268600|4|12|Pinkie Pride|Pinkie Pie must defend her status as a party pony when a mysterious visitor comes to town and plans a party for Rainbow Dash.
+FIM|1391873400|4|13|Simple Ways|Rarity develops a crush on Tenderhoof, a travel writer, but finds herself competing with Applejack for his attention.
+FIM|1392478200|4|14|Filli Vanilli|Fluttershy takes drastic measures to ensure the show will go on after a member of the performing group, the Ponytones, drops out.
+FIM|1393083000|4|15|Twilight Time|The Cutie Mark Crusaders realize they can use their ties to Twilight to increase their popularity.
+FIM|1393687800|4|16|It Ain't Easy Being Breezies|When Fluttershy comes to the help of magical creatures called Breezies, she soon finds herself tending to their every need.
+FIM|1394292600|4|17|Somepony to Watch Over Me|Apple Bloom has to prove to Applejack that she doesn't need her to constantly watch over her.
+FIM|1394897400|4|18|Maud Pie|When Pinkie Pie's sister comes to town, the girls find her much different than Pinkie described.
+FIM|1395502200|4|19|For Whom the Sweetie Belle Toils|Sweetie Belle ruins a costume for one of Rarity's clients on purpose; Luna visits her in her dreams.
+FIM|1396107000|4|20|Leap of Faith|Applejack is doubtful of the Flim Flam Brothers' cure-all tonic; Granny Smith tries it and it seems to work.
+FIM|1396711800|4|21|Testing, Testing, 1, 2, 3|Rainbow Dash uses unconventional methods to prepare for her test to become a member of the Wonderbolts Reserves.
+FIM|1397917800|4|22|Trade Ya!|When the trip to the Rainbow Falls Traders Exchange doesn't go as planned, the girls learn just how valuable their friendship really is.
+FIM|1398522600|4|23|Inspiration Manifestation|Rarity loses her creativity and Spike finds a spell to help her get it back.
+FIM|1399127400|4|24|Equestria Games|Spike is in charge of lighting the torch for the opening of the Equestria Games, but his nerves get the best of him.
+FIM|1399730400|4|25|Twilight's Kingdom (Part 1)|Princess Celestia chooses Discord over Princess Twilight to help track down a villain.
+FIM|1399732200|4|26|Twilight's Kingdom (Part 2)|The other princesses transfer all of their magical power to Twilight in hopes of saving Equestria.
+FIM|1428159600|5|1|The Cutie Map (Part 1)|The Mane 6 arrive in a village to solve a friendship problem and find out that everyone in the village has given up their Cutie Marks.
+FIM|1428161400|5|2|The Cutie Map (Part 2)|The Mane 6 have their Cutie Marks taken and must find a way to get them back from the pony who took them.
+FIM|1428766200|5|3|Castle Sweet Castle|The ponies try to make Princess Twilight's castle feel more like home after finding out she's been avoiding it.
+FIM|1429371000|5|4|Bloom and Gloom|Apple Bloom has high anxiety over getting her Cutie Mark and it begins to turn her life into a nightmare.
+FIM|1429975800|5|5|Tanks for the Memories|When Rainbow Dash realizes Tank must hibernate for winter, she decides the best solution is to keep winter from coming.
+FIM|1430580600|5|6|Appleoosa's Most Wanted|Infamous outlaw Troubleshoes Clyde returns to terrorize the Appleoosa rodeo and the Cutie Mark Crusaders set out to bring him to justice, hoping it is the key to finally getting their cutie marks.
+FIM|1431790200|5|7|Make New Friends But Keep Discord|After finding out that Fluttershy is taking a new friend to the Grand Galloping Gala instead of him, Discord goes to extreme lengths to show that it doesn't bother him.
+FIM|1432395000|5|8|The Lost Treasure of Griffonstone|Rainbow Dash and Pinkie Pie are called by the map to the ancient kingdom of Griffonstone but have conflicting ideas as to what problem they have been called to fix.
+FIM|1434209400|5|9|Slice of Life (Episode 100)|As Twilight Sparkle, Fluttershy, Applejack, Rainbow Dash, Pinkie Pie and Rarity battle a monster, the rest of Ponyville rushes to make it to a wedding on time.
+FIM|1434814200|5|10|Princess Spike|When Spike is put in charge of making sure nothing disturbs Princess Twilight, the power soon goes to his head and he begins making decisions in her name.
+FIM|1435419000|5|11|Party Pooped|When an important friendship summit takes a disastrous turn, it's up to Pinkie Pie's party to save the day.
+FIM|1436023800|5|12|Amending Fences|Twilight realizes she was a less than stellar friend to her former buddies in Canterlot, so she returns with Spike to make amends.
+FIM|1436628600|5|13|Do Princesses Dream of Magic Sheep?|Princess Luna enlists the Mane 6 to search for and locate the Tantabus, a magical force that threatens to turn the dreams of every pony into nightmares.
+FIM|1442071800|5|14|Canterlot Boutique|Rarity's dream of owning a boutique in Canterlot finally comes true, but it comes at a price Rarity may not be willing to pay.
+FIM|1442676600|5|15|Rarity Investigates!|Rarity must prove that her friend is innocent when Rainbow Dash is accused of a crime that she did not commit.
+FIM|1443281400|5|16|Made in Manehattan|Applejack and Rarity are called to Manehattan to solve a friendship problem; they find themselves helping Coco Pommel with a major project in her neighborhood, but the three soon discover that they've bitten off more than they can chew.
+FIM|1443886200|5|17|Brotherhooves Social|When Applejack is called away and has to miss participating in the Sisterhooves Social with Apple Bloom, Big Mac decides to fill in for her.
+FIM|1444491000|5|18|Crusaders of the Lost Mark|When Pip Squeak decides to run for class president, the Cutie Mark Crusaders rally around their friend, but find themselves helping their long-time nemesis, Diamond Tiara, in an unexpected way.
+FIM|1445095800|5|19|The One Where Pinkie Pie Knows|Pinkie Pie struggles to keep a secret that involves Princess Cadance and Shining Armor.
+FIM|1445700600|5|20|Hearthbreakers|Applejack is excited to celebrate Hearthswarming Eve with Pinkie Pie's family but soon discovers that the Pies have very different ways of enjoying the holiday at their Rock Farm.
+FIM|1446305400|5|21|Scare Master|Fluttershy decides to face her fears and take part in Nightmare Night with her friends.
+FIM|1446913800|5|22|What About Discord|Twilight returns from Canterlot to find her friends have developed a deep bond with Discord.
+FIM|1447518600|5|23|The Hooffields and McColts|Princess Twilight and Fluttershy are called by the map to settle a dispute between two feuding families who can't even remember why they are fighting.
+FIM|1448123400|5|24|The Mane Attraction|An old friend of Applejack's has become a huge pop star and Applejack fears that the singer's manager does not have her best interests at heart.
+FIM|1448726400|5|25|The Cutie Re-Mark (Part 1)|Starlight Glimmer returns to seek vengeance on Twilight and her friends and has acquired a spell that could change the past, present, and future of Equestria forever.
+FIM|1448728200|5|26|The Cutie Re-Mark (Part 2)|Princess Twilight's efforts to stop Starlight from altering the past continue, but she fears that they may be in vain.
+FIM|1459004400|6|1|The Crystalling (Part 1)|The Mane Six attend the Crystalling of Cadence and Shining Armor's new baby at the Crystal Empire; Twilight gets the chance to present Starlight with her first friendship lesson.
+FIM|1459006200|6|2|The Crystalling (Part 2)|The Mane Six scramble to save the Crystal Empire from an eternal winter; Starlight struggles after the failed reunion with her old friend.
+FIM|1459611000|6|3|The Gift of the Maud Pie|Rarity and Pinkie Pie are in Manehattan looking for an ideal location for Rarity's new store and searching for the perfect gift for Pinkie Pie's sister.
+FIM|1460215800|6|4|On Your Marks|Now that they've finally received their cutie marks, the Cutie Mark Crusaders struggle with the question of what's next; the friends do not all agree on how to embrace their destinies.
+FIM|1460820600|6|5|Gauntlet of Fire|In order to save his friends, Spike is forced to compete in a perilous Gauntlet for the title of Dragon Lord.
+FIM|1462030200|6|6|No Second Prances|When Starlight Glimmer starts becoming friends with a fellow formerly-bad pony, Twilight tries to stop her.
+FIM|1462635000|6|7|Newbie Dash|After Rainbow Dash achieves her dream of becoming a Wonderbolt, she makes a disastrous first impression and gets saddled with a mortifying nickname.
+FIM|1463239800|6|8|A Hearth's Warming Tail|Starlight Glimmer has a case of the holiday blues, so Twilight tries to help cure her by reading one of her favorite Hearth Warming's Eve stories, ``A Hearth's Warming Tale.''
+FIM|1463844600|6|9|The Saddle Row Review|When Rarity opens her flagship store in Manehattan, a tell-all article threatens to expose how badly her friends almost ruined the Grand Opening.
+FIM|1464449400|6|10|Applejack's "Day" Off|Rarity struggles to get Applejack to relax at the spa; when Twilight and Spike attempt to take over Applejack's simple farm chores, it turns out to be a more difficult job than they thought.
+FIM|1465054200|6|11|Flutter Brutter|When Fluttershy tries to convince her freeloading brother to move out of their parents' house, he moves in with her instead, forcing Fluttershy to stand up to him and help him get over his fear of failure.
+FIM|1465659000|6|12|Spice Up Your Life|Pinkie Pie and Rarity discover a father and daughter struggling to keep their family restaurant open, which is cause tension in their relationship.
+FIM|1469892600|6|13|Stranger Than Fan Fiction|Rainbow Dash meets a pony at the Daring Do Convention in Manehattan who hates Daring Do as much as she loves it.
+FIM|1470497400|6|14|The Cart Before the Ponies|The Cutie Mark Crusaders get the chance to race in the annual Applewood Derby; their teammates Rarity, Applejack, and Rainbow Dash take over the competition.
+FIM|1471102200|6|15|28 Pranks Later|Rainbow Dash's excessive pranking gets out of hand; the ponies decide to give her a taste of her own medicine.
+FIM|1471707000|6|16|The Times They Are a Changeling|When Spike travels with Twilight and Sunburst back to the Crystal Empire to visit Flurry Heart, they discover the entire empire in a panic due to the reported presence of Changeling spy.
+FIM|1472311800|6|17|Dungeons & Discords|When the Mane 6 leave town, Discord decides to join Spike and Big Mac's top secret Guys' Night; Much to Discord's disappointment, the Guys' Night turns out to be an evening of fantasy role-playing.
+FIM|1472916600|6|18|Buckball Season|Pinkie Pie and Fluttershy turn out to be Ponyville's best buckball players; Applejack and Rainbow Dash agree to coach them against Appleoosa.
+FIM|1473521400|6|19|The Fault in Our Cutie Marks|An enthusiastic young griffin asks the Crusaders to help her get her very own Cutie Mark; the Crusaders encounter a seemingly impossible problem.
+FIM|1474126200|6|20|Viva Las Pegasus|Applejack and Fluttershy follow the map to Las Pegasus where they discover suspicious going-ons at a resort called Gladmane's; they also find Film and Flam working at the resort.
+FIM|1474731000|6|21|Every Little Thing She Does|Though Starlight Glimmer is excelling at her magical studies with Twilight Sparkle, she feels pressure to impress her teacher and takes on too many friendship problems at once.
+FIM|1475335800|6|22|P.P.O.V. (Pony Point of View)|Twilight must find the truth after Applejack, Rarity and Pinkie Pie have three different versions of events from their boat trip and are upset with each other.
+FIM|1475940600|6|23|Where the Apple Lies|When Apple Bloom tells a white lie to cover up a mistake, Applejack shares the story of how she came to value honesty after telling a series of lies that almost destroyed the farm and landed the whole Apple family in the hospital.
+FIM|1476545400|6|24|Top Bolt|Rainbow Dash and Twilight Sparkle are sent to the Wonderbolt Academy to help two friends, Vapor Trail and Sky Stinger, solve a friendship problem that could prevent them from getting into the Academy.
+FIM|1477148400|6|25|To Where and Back Again (Part 1)|Without the assistance of Twilight Sparkle and the Mane Six, Starlight Glimmer must work alone to assemble an unlikely team of heroes to defend Equestria from the return of one of its greatest threats.
+FIM|1477150200|6|26|To Where and Back Again (Part 2)|To rescue her friends and save Equestria, Starlight Glimmer leads an unlikely band of heroes against one of the ponies' oldest and greatest foes.
+FIM|1492270200|7|1|Celestial Advice|When Twilight Sparkle agonizes over Starlight Glimmer's future, she gets some advice from her own mentor, Princess Celestia.
+FIM|1492272000|7|2|All Bottled Up|Starlight Glimmer and Trixie lose Twilight's friendship map during a retreat; Starlight uses a spell to contain her anger until the map can be found.
+FIM|1492875000|7|3|A Flurry of Emotions|Twilight Sparkle tries to prove she is the best aunt ever when she adds baby-sitting her niece, Flurry Heart, to her already busy schedule.
+FIM|1493479800|7|4|Rock Solid Friendship|Pinkie Pie does everything she can to make sure her sister, Maud, sees that Ponyville has more to offer than just rocks.
+FIM|1494084600|7|5|Fluttershy Leans In|Determined to make her career dreams come true with the help of some very special ponies, Fluttershy must find a way to stand up and fight for her ideas.
+FIM|1494689400|7|6|Forever Filly|Rarity tries to surprise Sweetie Belle with a day filled with all of her favorite activities, but quickly learns her little sister is no longer the little foal she used to be.
+FIM|1495294200|7|7|Parental Glideance|Rainbow Dash is pushed to the brink by her parents' unbridled enthusiasm after they learn she is a Wonderbolt.
+FIM|1495899000|7|8|Hard to Say Anything|The CMC's figure out that Big Mac has his first crush and vow to help him win Sugar Belle's heart against the competition of Feather Bangs.
+FIM|1496503800|7|9|Honest Apple|When Rarity asks Applejack to be a judge in a fashion show, Applejack learns that an opinion, however honest, can still be hurtful.
+FIM|1497108600|7|10|A Royal Problem|Starlight Glimmer is sent to solve a friendship problem between Princess Celestia and Princess Luna; when it's clear that the problem is that the royal sisters don't appreciate one another, Starlight impulsively switches their cutie marks!
+FIM|1497713400|7|11|Not Asking for Trouble|Pinkie Pie visits Prince Rutherford and the Yaks. While there, an avalanche falls on the entire rustic village of Yakyakistan. Pinkie Pie suggests that she go to get the other ponies to come help but the proud Prince and Yaks refuse.
+FIM|1501947000|7|12|Discordant Harmony|When Discord invites Fluttershy to his realm for tea, he worries she won't be comfortable there and begins to change it and himself with disastrous results.
+FIM|1501948800|7|13|The Perfect Pear|The Apple Siblings learn about their parent's love story and find out that they're half Pear.
+FIM|1502551800|7|14|Fames and Misfortune|Twilight Sparkle's publishing of the friendship journal has unintended consequences when ponies start to argue over who wrote the best lessons.
+FIM|1503156600|7|15|Triple Threat|Spike accidentally invites Ember and Thorax to Ponyville on the same day. He's sure the two new leaders are not going to get along so he does all he can to keep them apart and cover the fact that the other is there.
+FIM|1503761400|7|16|Campfire Tales|When their sister camping trip is ruined by Fly-ders, Applejack, Rarity, and Rainbow Dash tell Sweetie Belle, Apple Bloom, and Scootaloo the stories of their favorite legends; inspired by the tales, the girls make the most out of their new situation.
+FIM|1504366200|7|17|To Change a Changeling|Starlight Glimmer and Trixie try to get Thorax's brother Pharynx to accept the new way by sharing love and transforming so he doesn't undermine Thorax's leadership, and that the hive will ultimately accept him.
+FIM|1504971000|7|18|Daring Done|When Rainbow Dash's favorite author, A.K. Yearling, announces her retirement, Dash convinces Pinkie Pie to go on a quest to find out if the book on Daring Do really will be closed forever.
+FIM|1505575800|7|19|It Isn't the Mane Thing About You|When Rarity's shampoo is accidentally switched with Zecora's magical remover potion, she does everything she can to fix her devastated mane in time for an upcoming photo shoot.
+FIM|1506180600|7|20|A Health of Information|While helping Fluttershy gather supplies, Zecora comes down with a terrible disease called Swamp Fever; even though a cure has not been discovered, Fluttershy makes it her mission to heal Zecora no matter what it takes.
+FIM|1506785400|7|21|Marks and Recreation|Wanting to help as many blank flanks as possible, the CMCs start a Cutie Mark Day Camp, but are surprised when one of their campers doesn't want a cutie mark.
+FIM|1507390200|7|22|Once Upon a Zeppelin|Twilight is torn when she discovers the cruise she and her family are on is a themed vacation experience in which ponies have paid for the privilege of spending time with her, and she must please both her family and the cruise attendees.
+FIM|1507995000|7|23|Secrets and Pies|When Pinkie Pie thinks she sees Rainbow Dash throw away one of her pies, she suspects the worst - that Rainbow Dash secretly hates her pies; Pinkie Pie attempts to catch Rainbow Dash in her web of lies.
+FIM|1508599800|7|24|Uncommon Bond|When Starlight gets a visit from Sunburst, she discovers that he has tons in common with her friends and starts to wonder if he still has anything in common with her.
+FIM|1509204600|7|25|Shadow Play (Part 1)|When Sunburst discovers the lost journal of Starswirl the Bearded, Twilight becomes obsessed with saving her magical idol from a thousand year old prison.
+FIM|1509206400|7|26|Shadow Play (Part 2)|With Starswirl and the other Pillars of Old Equestria back from limbo (where they've been trapped for a thousand years), Twilight and all of her friends must work together to defeat the Pony of Shadows.
+FIM|1521905400|8|1|School Daze (Part 1)|When the Friendship Map grows bigger to reflect the world beyond Equestria, the Mane Six realize they'll need a way to spread the message of friendship far and wide; luckily Twilight knows just what to do-- open a School of Friendship.
+FIM|1521907200|8|2|School Daze (Part 2)|With her School of Friendship closed by the EEA, Twilight Sparkle must reunite her students, inspire her friends, and buck the rules to stand up for what she knows is right - every creature, pony or not, deserves to learn friendship together.
+FIM|1522510200|8|3|The Maud Couple|Pinkie Pie's super-best-friend-sister bond is challenged when Maud gets a boyfriend that Pinkie can't stand.
+FIM|1523115000|8|4|Fake It Til You Make It|Fluttershy looks after the Manehattan boutique while Rarity is away. She takes on a series of characters to cope with the intimidating clientele and learns that she was already the best pony for the job just by being herself.
+FIM|1523719800|8|5|Grannies Gone Wild|Granny Smith and her friends are headed to Las Pegasus; Rainbow Dash tags along as a chaperone so she can ride the best rollercoaster ever before it closes.
+FIM|1524324600|8|6|Surf and/or Turf|With family members on Mount Aris and Sea Pony relatives in Seaquestria, the Cutie Mark Crusaders try to help a young Hippogriff figure out where he belongs.
+FIM|1524929400|8|7|Horse Play|Twilight Sparkle casts Princess Celestia in her play, only to find Celestia's talents lie elsewhere.
+FIM|1525534200|8|8|The Parent Map|Neither Starlight nor Sunburst have visited their parents in a long time, but when both are called by the map to their hometown, they discover their parents are at the center of the friendship problem.
+FIM|1526139000|8|9|Non-Compete Clause|Applejack and Rainbow Dash take the friendship students on a teamwork learning field trip, and accidentally show the students the opposite of teamwork.
+FIM|1526743800|8|10|The Break Up Break Down|It's Hearts and Hooves Day and Big Mac has big romantic plans for Sugar Belle, but the day takes a turn when he overhears his special somepony tell Mrs. Cake that she's planning on breaking up with him!
+FIM|1527348600|8|11|Molt Down|Smolder explains that Spike's symptoms are just something all dragons go through in adolescence.
+FIM|1527953400|8|12|Marks for Effort|The CMCs try to convince Twilight to let them into her School of Friendship, even though it's clear they've already mastered the curriculum.
+FIM|1528558200|8|13|The Mean 6|Queen Chrysalis returns, ready to exact her revenge on Starlight Glimmer and the Mane 6.
+FIM|1507248000|MOV|1|My Little Pony: The Movie|Twilight Sparkle, Applejack, Rainbow Dash, Pinkie Pie, Fluttershy and Rarity embark on an epic journey to save Ponyville from a dark force. Along the way, the Mane 6 meet new friends and face exciting challenges as they travel beyond Equestria to defeat the evil Storm King and his minion unicorn -- Tempest Shadow.
+FIM|1371340800|EQ|1|Equestria Girls|Twilight Sparkle pursues a thief into an alternate world where she transforms into a teenager. With the help of new friends, Twilight survives her greatest challenge yet -- high school.
+FIM|1411862400|EQ|2|Equestria Girls - Rainbow Rocks|The Rainbooms, a musical group featuring Rainbow Dash (Ashleigh Ball), Applejack, Pinkie Pie (Andrea Libman), Rarity and Fluttershy, battle their rivals in a school competition.
+FIM|1443321000|EQ|3|Equestria Girls - Friendship Games|Canterlot High and Crystal Prep Academy compete in a series of exciting events, including archery, motocross and roller skating.
+FIM|1475335800|EQ|4|Equestria Girls - Legend of Everfree|The students of Canterlot High discover a mysterious magical force at Camp Everfree.
+FIM|1518881400|EQ|5|Equestria Girls - Forgotten Friendship|Sunset Shimmer is shocked to discover that she's been erased from her friends' memories and must search for the magic and the perpetrator who did such a dreadful deed.
