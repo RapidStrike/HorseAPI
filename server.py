@@ -45,7 +45,7 @@ class NewestEpisode(Resource):
         if new_ep:
             return jsonify(new_ep.print())
         else:
-            return error_400('No new episode found. Hiatus?')
+            return api_err(200, 'No new episode found. Hiatus?')
 
 
 @api.resource('/season/<season>')
@@ -54,11 +54,11 @@ class SeasonFetch(Resource):
         try:
             season_list = [ep.print() for ep in db.episodes if ep.season == int(season)]
         except ValueError:
-            return error_400('Season must be a number.')
+            return api_err(400, 'Season must be a number.')
         if season_list:
             return jsonify(season_list)
         else:
-            return error_400('Season does not exist.')
+            return api_err(400, 'Season does not exist.')
 
 
 @api.resource('/season/<season>/episode/<episode>')
@@ -67,16 +67,16 @@ class EpisodeFetch(Resource):
         try:
             target_ep = next((ep.print() for ep in db.episodes if ep.season == int(season) and ep.episode == int(episode)), None)
         except ValueError:
-            return error_400('Season and episode must be a number.')
+            return api_err(400, 'Season and episode must be a number.')
         if target_ep:
             return jsonify(target_ep)
         else:
-            return error_400('Episode does not exist.')
+            return api_err(400, 'Episode does not exist.')
 
 
-def error_400(error_msg):
+def api_err(status_code, error_msg):
     resp = jsonify({'error': error_msg})
-    resp.status_code = 400
+    resp.status_code = status_code
     return resp
 
 
