@@ -26,4 +26,24 @@ Certain methods will also return a list of episode objects.
 
 ### `/episodes`
 
-Returns a list of all confirmed episodes of MLP:FIM.
+Returns a list of all confirmed episodes of MLP:FIM. This will be presented in the form of an array of episodes.
+
+### `/movies`
+
+Returns a list of all movies for MLP:FIM. This will be presented in the form of an array of movies.
+
+### `/all`
+
+Returns all of the above presented in a single list.
+
+### `/newest`
+
+Grabs the newest upcoming episode of MLP. If there is no new episode planned, it will still return HTTP 200, but with an error rather than episode information.
+
+### `/season/<number>`
+
+Returns all episodes in the given season, or it returns a 400 error if the season doesn't exist or is not a number. Numeric only.
+
+### `/season/<number>/episode/<number>`
+
+Returns the episode as specified by the season and episode number. This will return a 400 error if any of the values aren't numbers, or if the specified episode can't be found.
