@@ -13,7 +13,8 @@ class PonyResource:
                 while line:
                     self.parse_episode(line)
                     line = f.readline().strip()
-            self.episodes = sorted(self.episodes, key=lambda x: (x.season, x.episode))
+            # self.episodes = sorted(self.episodes, key=lambda x: (x.season, x.episode))
+            self.episodes = sorted(self.episodes, key=lambda x: x.air_date)
             self.movies = sorted(self.movies, key=lambda x: (x.season, x.episode))
         except IOError as ex:
             print('Something went wrong.\n\n{}'.format(ex))
