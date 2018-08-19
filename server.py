@@ -1,4 +1,5 @@
 import time
+import random
 
 from flask import Flask, request
 from flask_restful import Resource, Api
@@ -30,6 +31,12 @@ class Movies(Resource):
 class AllEpisodes(Resource):
     def get(self):
         return jsonify([value.print() for value in db.episodes + db.movies])
+
+
+@api.resource('/allponies')
+class AllPonies(Resource):
+    def get(self):
+        return jsonify([pone.print() for pone in db.pones])
 
 
 # SPECIFIC #
@@ -72,6 +79,26 @@ class EpisodeFetch(Resource):
             return jsonify(target_ep)
         else:
             return api_err(400, 'Episode does not exist.')
+
+
+@api.resource('/pony')
+class RandomPonyFetch(Resource):
+    def get(self):
+        rando_pone = random.choice(db.pones)
+        return jsonify(rando_pone.print())
+
+
+@api.resource('/pony/<pony_name>')
+class PonyFetch(Resource):
+    def get(self, pony_name):
+        try:
+            target_pone = next((pone.print() for pone in db.pones if pone.name == pony_name), None)
+        except ValueError:
+            return api_err(400, 'Invalid query string.')
+        if target_pone:
+            return jsonify(target_pone)
+        else:
+            return api_err(400, 'Horse does not exist.')
 
 
 def api_err(status_code, error_msg):

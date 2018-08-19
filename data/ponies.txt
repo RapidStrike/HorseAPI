@@ -1,0 +1,7 @@
+Twilight Sparkle|Alicorn|Female|http://mlp.wikia.com/wiki/Twilight_Sparkle
+Starlight Glimmer|Unicorn|Female|http://mlp.wikia.com/wiki/Starlight_Glimmer
+Rarity|Unicorn|Female|http://mlp.wikia.com/wiki/Rarity
+Applejack|Earth|Female|http://mlp.wikia.com/wiki/Applejack
+Pinkie Pie|Earth|Female|http://mlp.wikia.com/wiki/Pinkie_Pie
+Fluttershy|Pegasus|Female|http://mlp.wikia.com/wiki/Fluttershy
+Rainbow Dash|Pegasus|Female|http://mlp.wikia.com/wiki/Rainbow_Dash
