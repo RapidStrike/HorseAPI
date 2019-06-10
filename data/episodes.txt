@@ -208,8 +208,10 @@ FIM|1560007800|9|11|Student Counsel|Starlight Glimmer relishes her role as schoo
 FIM|1560612600|9|12|The Last Crusade|Unexpected visitors to Ponyville threaten to break up the Cutie Mark Crusaders forever.
 FIM|1561217400|9|13|Between Dark and Dawn|Luna and Celestia take a sister vacation while Twilight and her friends struggle to cover the princesses' many royal duties.
 FIM|1507248000|MOV|1|My Little Pony: The Movie|Twilight Sparkle, Applejack, Rainbow Dash, Pinkie Pie, Fluttershy and Rarity embark on an epic journey to save Ponyville from a dark force. Along the way, the Mane 6 meet new friends and face exciting challenges as they travel beyond Equestria to defeat the evil Storm King and his minion unicorn -- Tempest Shadow.
-FIM|1371340800|EQ|1|Equestria Girls|Twilight Sparkle pursues a thief into an alternate world where she transforms into a teenager. With the help of new friends, Twilight survives her greatest challenge yet -- high school.
-FIM|1411862400|EQ|2|Equestria Girls - Rainbow Rocks|The Rainbooms, a musical group featuring Rainbow Dash (Ashleigh Ball), Applejack, Pinkie Pie (Andrea Libman), Rarity and Fluttershy, battle their rivals in a school competition.
-FIM|1443321000|EQ|3|Equestria Girls - Friendship Games|Canterlot High and Crystal Prep Academy compete in a series of exciting events, including archery, motocross and roller skating.
-FIM|1475335800|EQ|4|Equestria Girls - Legend of Everfree|The students of Canterlot High discover a mysterious magical force at Camp Everfree.
-FIM|1518881400|EQ|5|Equestria Girls - Forgotten Friendship|Sunset Shimmer is shocked to discover that she's been erased from her friends' memories and must search for the magic and the perpetrator who did such a dreadful deed.
+FIM|1371254400|EQ|1|Equestria Girls|Twilight Sparkle pursues a thief into an alternate world where she transforms into a teenager. With the help of new friends, Twilight survives her greatest challenge yet -- high school.
+FIM|1411776000|EQ|2|Equestria Girls - Rainbow Rocks|The Rainbooms, a musical group featuring Rainbow Dash (Ashleigh Ball), Applejack, Pinkie Pie (Andrea Libman), Rarity and Fluttershy, battle their rivals in a school competition.
+FIM|1443225600|EQ|3|Equestria Girls - Friendship Games|Canterlot High and Crystal Prep Academy compete in a series of exciting events, including archery, motocross and roller skating.
+FIM|1475280000|EQ|4|Equestria Girls - Legend of Everfree|The students of Canterlot High discover a mysterious magical force at Camp Everfree.
+FIM|1518825600|EQ|5|Equestria Girls - Forgotten Friendship|Sunset Shimmer is shocked to discover that she's been erased from her friends' memories and must search for the magic and the perpetrator who did such a dreadful deed.
+FIM|1530835200|EQ|5|Equestria Girls - Rollercoaster of Friendship|Rarity takes a summer job as a costume designer for a new amusement park to which this hinders her friendship with the other girls, particularly Applejack.
+FIM|1553904000|EQ|5|Equestria Girls - Spring Breakdown|The Mane 7 spend spring break aboard a yacht, but Rainbow Dash believes Equestrian magic is on the loose.
