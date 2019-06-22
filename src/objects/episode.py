@@ -5,7 +5,7 @@ class Episode:
         self.season = int(season) if season.isnumeric() else season
         self.episode = int(episode)
         self.synopsis = synopsis
-        self.is_movie = not season.isnumeric()
+        self.is_movie = not season.isnumeric() and season != 'SPECIAL'
 
     def print(self):
         if not self.is_movie and self.synopsis:

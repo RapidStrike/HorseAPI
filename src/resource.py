@@ -31,8 +31,8 @@ class PonyResource:
         # SHOW - TIMESTAMP - SEASON - EPISODE - TITLE
         if raw_ep[0] == 'FIM':
             ep_create = Episode(raw_ep[4], raw_ep[1], raw_ep[2], raw_ep[3], raw_ep[5] if len(raw_ep) > 5 else None)
-            if raw_ep[2].isnumeric():
-                # TV Episode
+            if raw_ep[2].isnumeric() or raw_ep[2] == 'SPECIAL':
+                # TV Episode or Special
                 self.episodes.append(ep_create)
             else:
                 # Movie
